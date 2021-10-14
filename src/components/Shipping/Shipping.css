@@ -1,0 +1,15 @@
+.shipping{
+    margin: 30px 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shipping input{
+    display: block;
+    margin: 10px;
+    min-width: 300px;
+    padding: 10px;
+}
+.error{
+    color: red;
+}
